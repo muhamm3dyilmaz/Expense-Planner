@@ -1,1 +1,5 @@
-
+![#1-home-page](https://user-images.githubusercontent.com/106344213/187186371-f2ff1b9d-4b5d-4b9e-9b72-56ac5d0fbd77.PNG)
+![#2-add-expense-page](https://user-images.githubusercontent.com/106344213/187186390-f2c0234e-cf68-4da0-90fa-e4c834393a8a.PNG)
+![#3-date-choosing](https://user-images.githubusercontent.com/106344213/187186407-d33be7e9-f131-4d8d-b490-d41f222f5ef2.PNG)
+![#4-added-expenses](https://user-images.githubusercontent.com/106344213/187186420-ec0bbe6a-fdb7-468c-bc71-1adaba27cbc3.PNG)
+![#5-delete-expenses](https://user-images.githubusercontent.com/106344213/187186450-980ca858-ae8a-434c-b7f9-6cc5954c4c1a.PNG)
